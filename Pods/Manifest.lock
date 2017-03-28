@@ -1,0 +1,18 @@
+PODS:
+  - CVCalendar (1.5.0)
+  - PermissionScope (1.1.1)
+  - SABlurImageView (3.0.1)
+
+DEPENDENCIES:
+  - CVCalendar
+  - PermissionScope
+  - SABlurImageView
+
+SPEC CHECKSUMS:
+  CVCalendar: 5d51a7bda1b9439b612de69d86a91a73befa1936
+  PermissionScope: a30c16e015779ba27c97c124e7539e27b5829de2
+  SABlurImageView: bd0940330d0e8571379a495623e57c436659a202
+
+PODFILE CHECKSUM: 9da60f1c08c2e603e8c7573e9e68b30ee9ca7264
+
+COCOAPODS: 1.2.0
